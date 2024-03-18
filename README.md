@@ -1,4 +1,3 @@
-**For output screenshots, check the wiki section**
 
 - **Steps to run this project:**
 1. Clone this repo.
@@ -11,4 +10,4 @@
 8. Now restart your VS Code and go to public folder and paste the following command **npm run dev** to start the web application.
 9. Now the web application will start in your local host.
 
-11. **For output screenshots, check the wiki section**
+![image](https://github.com/M10O/AI_Summarizer/assets/73187017/dbb99aa0-e00c-4b7f-b839-84fa3406264d)
